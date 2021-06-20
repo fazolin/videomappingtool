@@ -15,3 +15,9 @@ sudo apt install git
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
+
+
+# EDIT CODE IN VSCODE VIA SSH
+- isntal vscode
+- isntall https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
+- put 
