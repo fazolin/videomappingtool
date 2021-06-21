@@ -20,4 +20,4 @@ sudo apt-get install -y nodejs
 # EDIT CODE IN VSCODE VIA SSH
 - isntal vscode
 - isntall https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack
-- put 
+- put vscode_oF.code-workspace on your OF folder project
